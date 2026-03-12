@@ -1,5 +1,4 @@
-
-#proyecto_tareas
+# proyecto_tareas
 | Herramienta / Tecnología | Versión | Descripción / Uso en el proyecto |
 | :--- | :---: | :--- |
 | **Node.js** | `v24.13.0` | Entorno de ejecución para levantar el servidor. |
