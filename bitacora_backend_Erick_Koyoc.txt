@@ -1,0 +1,5 @@
+commit caed7c8b5caa4920e15af93b5495dd9ab83b1f0f
+Author: Fabian Hernandez <2024072829@upb.edu.mx>
+Date:   Mon Feb 9 12:39:58 2026 -0500
+
+    Estrura inicial del proyecto de tareas escolares
